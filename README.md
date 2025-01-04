@@ -1,0 +1,1 @@
+# TypeScriptのメモ書き
