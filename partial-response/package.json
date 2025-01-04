@@ -1,0 +1,13 @@
+{
+  "name": "typescript-partial-example",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
